@@ -63,7 +63,7 @@ Cite this project as:
   title={Writing Style Cloner with RL (SPSA)},
   author={Wai Yan},
   year={2025},
-  url={https://github.com/WaiYanNyeinNaing/writing-style-cloner}
+  url={(https://github.com/WaiYanNyeinNaing/writing-style-cloner)}
 }
 
 ## 🌟 Contribution
