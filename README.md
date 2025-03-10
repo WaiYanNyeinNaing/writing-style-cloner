@@ -3,8 +3,9 @@
 ## 🚀 Overview
 "Writing Style Cloner with RL (SPSA)" is an innovative AI tool designed to analyze and replicate the writing style of a given reference text. Using natural language processing (NLP) and a reinforcement learning (RL)-inspired algorithm called Simultaneous Perturbation Stochastic Approximation (SPSA), this project transforms input text to match stylistic features such as sentence length, lexical density, tone, and paragraph structure. Developed by Dr. Wai Yan, this tool is ideal for writers, content creators, and researchers aiming to adapt their writing to specific styles or contexts.
 
-## 📄 Research Paper
-This project employs cutting-edge techniques in style analysis and reinforcement learning. While a formal research paper is not yet available, a one-page summary is provided below. Contributions and further research are encouraged.
+## 📄 Project Paper
+
+A one-page summary explaining how the project works is available in [onepager_project.md](Paper/onepager_project.md). Contributions and further development are welcome.
 
 ## 🔍 Abstract
 This project presents a novel approach to writing style replication by integrating style analysis with an RL-inspired SPSA algorithm. It extracts stylistic features from a reference text and optimizes the rewriting of input text to align with these features, overcoming challenges in current large language models (LLMs) like unnatural tone generation and context adaptability. The system operates without extensive fine-tuning or large datasets, offering a robust solution for style cloning across diverse occasions and topics.
@@ -61,9 +62,9 @@ Users can see how SPSA enhances style matching iteratively, producing text that 
 Cite this project as:
 @misc{waiyan2025,
   title={Writing Style Cloner with RL (SPSA)},
-  author={Dr.Wai Yan},
+  author={Wai Yan},
   year={2025},
-  url=https://github.com/WaiYanNyeinNaing/writing-style-cloner
+  url={https://github.com/WaiYanNyeinNaing/writing-style-cloner}
 }
 
 ## 🌟 Contribution
